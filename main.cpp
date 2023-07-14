@@ -1,2 +1,2 @@
-#include Warrior.cpp
+#include Warrior.h
 int main
