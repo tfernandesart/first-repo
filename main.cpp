@@ -1,2 +1,5 @@
 #include Warrior.h
-int main
+MAINFUNC()
+{
+	
+}
